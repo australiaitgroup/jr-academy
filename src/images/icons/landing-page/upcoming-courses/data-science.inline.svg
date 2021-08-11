@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54.894" height="81.876" viewBox="0 0 54.894 81.876">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffb369"/>
+      <stop offset="1" stop-color="#ff4272"/>
+    </linearGradient>
+  </defs>
+  <g id="_4_logo" data-name="4 logo" transform="translate(0.215 -0.185)">
+    <g id="Layer_1-2">
+      <path id="Path-1" d="M1.769,20.49V0" transform="translate(25.578 18.664)" fill="none" stroke="#ff4272" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Path-2" data-name="Path" d="M18.107,0,9.053,9,0,0" transform="translate(18.294 30.157)" fill="none" stroke="url(#linear-gradient)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <rect id="Rectangle" width="10.614" height="10.546" rx="1.5" stroke-width="1.5" transform="translate(22.04 0.935)" stroke="url(#linear-gradient)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+      <path id="Path-3" data-name="Path" d="M53.217,0c-.311,2.716-9.833,9.078-26.739,9.078S.34,2.863.029.148A1.377,1.377,0,0,1,0,0" transform="translate(0.632 44.668)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Path-4" data-name="Path" d="M53.217,0c-.311,2.716-9.833,9.078-26.739,9.078S.34,2.864.029.148A1.36,1.36,0,0,1,0,0" transform="translate(0.632 57.881)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Path-5" data-name="Path" d="M10.025,0C4.169,1.725,0,4.525,0,8.54l0,.043,0,.049v26.4a2.586,2.586,0,0,0,.147.86c1.515,6.433,14.419,9.38,26.461,9.38s24.947-2.947,26.461-9.38a2.58,2.58,0,0,0,.147-.86V8.631l0-.049,0-.043c0-4-4.141-6.8-9.968-8.524" transform="translate(0.632 36.037)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

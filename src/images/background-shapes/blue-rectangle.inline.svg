@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="510px" height="172px" viewBox="0 0 510 172" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Rectangle decor</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="5.91361974%" y1="47.7039477%" x2="88.2698079%" y2="52.6505289%" id="linearGradient-5">
+            <stop stop-color="#2BC0E4" offset="0%"></stop>
+            <stop stop-color="#EBE9E9" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.700892857">
+        <g id="Desktop" transform="translate(-515.000000, -2602.000000)" fill="url(#linearGradient-5)">
+            <g id="Recruitment-Program" transform="translate(93.000000, 2372.000000)">
+                <rect id="Rectangle-decor" x="422" y="230" width="601" height="172" rx="20"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

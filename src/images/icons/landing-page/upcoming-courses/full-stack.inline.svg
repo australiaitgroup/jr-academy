@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80.286" height="76.4" viewBox="0 0 80.286 76.4">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffb369"/>
+      <stop offset="1" stop-color="#ff4272"/>
+    </linearGradient>
+  </defs>
+  <g id="_2_logo" data-name="2 logo" transform="translate(0 0)">
+    <path id="Shape" d="M74.359,76.4l-.158,0H5.823a5.753,5.753,0,0,1-2.57-.606A5.9,5.9,0,0,1,.1,71.6,6.788,6.788,0,0,1,0,70.279V5.89A5.926,5.926,0,0,1,2.33,1.181,5.777,5.777,0,0,1,4.784.1,6.526,6.526,0,0,1,5.954,0h68.5a5.782,5.782,0,0,1,2.581.607A5.909,5.909,0,0,1,80.185,4.8a6.9,6.9,0,0,1,.1,1.32V70.51a5.924,5.924,0,0,1-2.327,4.709A5.8,5.8,0,0,1,75.5,76.3,6.325,6.325,0,0,1,74.359,76.4Zm-68.5-1.677h68.5a4.431,4.431,0,0,0,.854-.07,4.136,4.136,0,0,0,1.754-.775,4.25,4.25,0,0,0,1.667-3.37V6.121a4.91,4.91,0,0,0-.074-1.012,4.206,4.206,0,0,0-2.255-3,4.108,4.108,0,0,0-1.852-.434H5.95a4.529,4.529,0,0,0-.872.07,4.127,4.127,0,0,0-1.752.774A4.252,4.252,0,0,0,1.659,5.89v64.39a5.121,5.121,0,0,0,.072,1.012,4.219,4.219,0,0,0,2.255,3,4.129,4.129,0,0,0,1.853.433Z" fill="#1d1d1b"/>
+    <path id="Shape-2" data-name="Shape" d="M65.777,53.19H0V0H65.777ZM1.669,1.671V51.519H64.108V1.671Z" transform="translate(7.738 16.441)" fill="#1d1d1b"/>
+    <path id="Shape-3" data-name="Shape" d="M3.888,7.736H3.852A3.867,3.867,0,0,1,0,3.867,3.872,3.872,0,0,1,3.853,0h.032A3.87,3.87,0,0,1,7.738,3.87,3.867,3.867,0,0,1,3.888,7.736ZM3.868,6.014h.053A2.1,2.1,0,0,0,5.407,5.36a2.128,2.128,0,0,0,0-2.982,2.1,2.1,0,0,0-1.486-.656h-.1a2.1,2.1,0,0,0-1.486.654,2.129,2.129,0,0,0,0,2.984,2.1,2.1,0,0,0,1.486.654Z" transform="translate(7.738 6.77)" fill="#1d1d1b"/>
+    <path id="Shape-4" data-name="Shape" d="M3.887,7.736H3.851A3.869,3.869,0,0,1,0,3.867,3.87,3.87,0,0,1,3.854,0h.032A3.869,3.869,0,0,1,7.738,3.87,3.869,3.869,0,0,1,3.887,7.736ZM3.868,6.014h.053a2.1,2.1,0,0,0,1.485-.654,2.131,2.131,0,0,0,0-2.985A2.1,2.1,0,0,0,3.92,1.722h-.1a2.1,2.1,0,0,0-1.486.654,2.13,2.13,0,0,0,0,2.985,2.1,2.1,0,0,0,1.485.653Z" transform="translate(17.411 6.77)" fill="#1d1d1b"/>
+    <rect id="Rectangle" width="41.594" height="1.934" transform="translate(29.986 9.671)" fill="#1d1d1b"/>
+    <path id="Shape-5" data-name="Shape" d="M26.117,13.54H0V0H26.117V13.539ZM1.676,1.668v10.2H24.441V1.668Z" transform="translate(12.575 23.21)" fill="#1d1d1b"/>
+    <rect id="Rectangle-2" data-name="Rectangle" width="22.248" height="1.934" transform="translate(44.496 22.243)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle-3" data-name="Rectangle" width="22.248" height="1.934" transform="translate(44.496 29.013)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle-4" data-name="Rectangle" width="22.248" height="1.934" transform="translate(44.496 34.815)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle-5" data-name="Rectangle" width="22.248" height="1.934" transform="translate(44.496 40.618)" fill="url(#linear-gradient)"/>
+    <path id="Shape-6" data-name="Shape" d="M24.182,17.408H0V0H24.182V17.407ZM1.67,1.666V15.741H22.514V1.666Z" transform="translate(43.528 46.42)" fill="#1d1d1b"/>
+    <path id="Shape-7" data-name="Shape" d="M26.117,22.243H0V0H26.117V22.243ZM1.676,1.67v18.9H24.441V1.67Z" transform="translate(12.575 39.651)" fill="#1d1d1b"/>
+  </g>
+</svg>

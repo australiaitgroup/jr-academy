@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="47.252" height="81.269" viewBox="0 0 47.252 81.269">
+  <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+    <stop offset="0" stop-color="#ffb369"/>
+    <stop offset="1" stop-color="#ff4272"/>
+  </linearGradient>
+  <g id="_6_ios_logo" data-name="6 ios logo" transform="translate(0.5 0.5)">
+    <path id="Path" d="M.873.044A.646.646,0,0,0,.655,0,.654.654,0,0,0,0,.654v2.4a.654.654,0,0,0,.655.654.646.646,0,0,0,.218-.044Z" transform="translate(0 17.45)" fill="none" stroke="#404041" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+    <rect id="Rectangle" width="45.379" height="80.268" rx="4.5" stroke-width="1" transform="translate(0.873)" stroke="#404041" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+    <path id="Path-2" data-name="Path" d="M.436,72.416V0" transform="translate(0.436 3.926)" fill="none" stroke="#404041" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Path-3" data-name="Path" d="M.873.044A.646.646,0,0,0,.655,0,.654.654,0,0,0,0,.654v2.4a.654.654,0,0,0,.655.654.646.646,0,0,0,.218-.044Z" transform="translate(0 12.215)" fill="none" stroke="#404041" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+    <rect id="Rectangle-2" data-name="Rectangle" width="42.15" height="59.329" rx="2" transform="translate(2.618 8.725)" stroke-width="1" stroke="#404041" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+    <path id="Path-4" data-name="Path" d="M8.727.872a.873.873,0,0,1-.873.872H.873A.873.873,0,0,1,0,.872H0A.873.873,0,0,1,.873,0H7.854a.873.873,0,0,1,.873.872Z" transform="translate(19.199 3.49)" fill="none" stroke="#404041" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+    <ellipse id="Oval" cx="0.873" cy="0.872" rx="0.873" ry="0.872" stroke-width="1" transform="translate(28.798 3.49)" stroke="#404041" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+    <path id="Path-5" data-name="Path" d="M0,12.215A1.745,1.745,0,0,0,1.745,13.96h38.4a1.745,1.745,0,0,0,1.745-1.745V0H0Z" transform="translate(2.618 54.094)" fill="none" stroke="#404041" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+    <rect id="Rectangle-3" data-name="Rectangle" width="6.981" height="6.98" rx="2" transform="translate(5.236 13.96)" stroke-width="1" stroke="#404041" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+    <rect id="Rectangle-4" data-name="Rectangle" width="6.981" height="6.98" rx="2" transform="translate(15.123 13.96)" stroke-width="1" stroke="#404041" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+    <rect id="Rectangle-5" data-name="Rectangle" width="6.981" height="6.98" rx="2" transform="translate(25.019 13.96)" stroke-width="1" stroke="url(#linear-gradient)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+    <rect id="Rectangle-6" data-name="Rectangle" width="6.981" height="6.98" rx="2" transform="translate(34.907 13.96)" stroke-width="1" stroke="url(#linear-gradient)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+    <rect id="Rectangle-7" data-name="Rectangle" width="6.981" height="6.98" rx="2" transform="translate(5.236 24.43)" stroke-width="1" stroke="url(#linear-gradient)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+    <rect id="Rectangle-8" data-name="Rectangle" width="6.981" height="6.98" rx="2" transform="translate(15.123 24.43)" stroke-width="1" stroke="#404041" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+    <rect id="Rectangle-9" data-name="Rectangle" width="6.981" height="6.98" rx="2" transform="translate(25.019 24.43)" stroke-width="1" stroke="#404041" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+    <rect id="Rectangle-10" data-name="Rectangle" width="6.981" height="6.98" rx="2" transform="translate(5.236 57.584)" stroke-width="1" stroke="#404041" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+    <rect id="Rectangle-11" data-name="Rectangle" width="6.981" height="6.98" rx="2" transform="translate(15.123 57.584)" stroke-width="1" stroke="#404041" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+    <rect id="Rectangle-12" data-name="Rectangle" width="6.981" height="6.98" rx="2" transform="translate(25.019 57.584)" stroke-width="1" stroke="#404041" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+    <rect id="Rectangle-13" data-name="Rectangle" width="6.981" height="6.98" rx="2" transform="translate(34.907 57.584)" stroke-width="1" stroke="#404041" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+    <ellipse id="Oval-2" data-name="Oval" cx="4.145" cy="4.144" rx="4.145" ry="4.144" transform="translate(19.199 70.235)" fill="none" stroke="#404041" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+    <rect id="Rectangle-14" data-name="Rectangle" width="5.672" height="5.671" rx="2" transform="translate(20.508 71.544)" stroke-width="1" stroke="#404041" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+  </g>
+</svg>

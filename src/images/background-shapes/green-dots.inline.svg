@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="105px" height="74px" viewBox="0 0 105 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>左下角 decor</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="233.248263%" x2="246.757529%" y2="559.256135%" id="linearGradient-1">
+            <stop stop-color="#44D7B6" offset="0%"></stop>
+            <stop stop-color="#93B5B3" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5914016">
+        <g id="Desktop" transform="translate(-40.000000, -1189.000000)" fill="url(#linearGradient-1)">
+            <g id="Upcoming-Courses" transform="translate(-5.000000, 425.000000)">
+                <g id="左下角-decor" transform="translate(97.500000, 801.000000) rotate(90.000000) translate(-97.500000, -801.000000) translate(61.000000, 749.000000)">
+                    <circle id="Oval" cx="27" cy="7" r="7"></circle>
+                    <circle id="Oval-Copy-4" cx="27" cy="25" r="7"></circle>
+                    <circle id="Oval-Copy-8" cx="27" cy="43" r="7"></circle>
+                    <circle id="Oval-Copy-12" cx="27" cy="61" r="7"></circle>
+                    <circle id="Oval-Copy-16" cx="27" cy="79" r="7"></circle>
+                    <circle id="Oval-Copy-20" cx="27" cy="97" r="7"></circle>
+                    <circle id="Oval-Copy" cx="46" cy="7" r="7"></circle>
+                    <circle id="Oval-Copy-5" cx="46" cy="25" r="7"></circle>
+                    <circle id="Oval-Copy-9" cx="46" cy="43" r="7"></circle>
+                    <circle id="Oval-Copy-13" cx="46" cy="61" r="7"></circle>
+                    <circle id="Oval-Copy-17" cx="46" cy="79" r="7"></circle>
+                    <circle id="Oval-Copy-21" cx="46" cy="97" r="7"></circle>
+                    <circle id="Oval-Copy-2" cx="66" cy="7" r="7"></circle>
+                    <circle id="Oval-Copy-6" cx="66" cy="25" r="7"></circle>
+                    <circle id="Oval-Copy-10" cx="66" cy="43" r="7"></circle>
+                    <circle id="Oval-Copy-14" cx="66" cy="61" r="7"></circle>
+                    <circle id="Oval-Copy-18" cx="66" cy="79" r="7"></circle>
+                    <circle id="Oval-Copy-22" cx="66" cy="97" r="7"></circle>
+                    <circle id="Oval-Copy-3" cx="7" cy="7" r="7"></circle>
+                    <circle id="Oval-Copy-7" cx="7" cy="25" r="7"></circle>
+                    <circle id="Oval-Copy-11" cx="7" cy="43" r="7"></circle>
+                    <circle id="Oval-Copy-15" cx="7" cy="61" r="7"></circle>
+                    <circle id="Oval-Copy-19" cx="7" cy="79" r="7"></circle>
+                    <circle id="Oval-Copy-23" cx="7" cy="97" r="7"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

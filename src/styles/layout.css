@@ -1,0 +1,36 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html,
+body,
+#___gatsby {
+	height: 100%;
+}
+
+body {
+	font-family: 'Open Sans', 'PingFangSC-Regular', Helvetica, Tahoma, Arial,
+		sans-serif;
+	scroll-behavior: smooth;
+}
+
+#gatsby-focus-wrapper {
+	display: grid;
+	min-height: 100%;
+	grid-template-columns: 1fr;
+	grid-template-areas:
+		'header'
+		'main'
+		'footer';
+	grid-template-rows: auto auto 275px;
+}
+
+main {
+	grid-area: main;
+	min-height: 55vh;
+}
+
+footer {
+	grid-area: footer;
+}

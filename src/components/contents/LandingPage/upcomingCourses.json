@@ -1,0 +1,38 @@
+[
+	{
+		"title": "Business Data Analytics",
+		"nextClass": "Next Class: 30 Feb 2021, Melbourne",
+		"imageFileName": "data-analytics",
+		"intro": "Learn to present and communication data-driven insights via Power BI, Python, SQL and Excel, including Excel complicated function, Python core skills and create data visualistaions."
+	},
+	{
+		"title": "Full-Stack Web Development",
+		"nextClass": "Next Class: 08 Feb/May/August 2021, Melbourne/Brisbane/Sydney",
+		"imageFileName": "full-stack",
+		"intro": "Learn the back-end technology of Nodejs and .Net, including Reactjs, REST API, Agile and Career coaching. Three-month courses and one-month intership."
+	},
+	{
+		"title": "Intro to Python",
+		"nextClass": "Next Class: Every Month 2021, Melbourne/Sydney",
+		"imageFileName": "python",
+		"intro": "Python is a clean, efficient, newbie friendly programming language  what suit for beginners. In this course, you will learn how to use Python on programming project."
+	},
+	{
+		"title": "Data Science Immersive",
+		"nextClass": "Next Class: 07 Dec 2021, Melbourne/Sydney",
+		"imageFileName": "data-science",
+		"intro": "A comprehensive course for data engineering. Learn data science, exploratory data analysis and master the basic of machine learning to do forecast, including support vector machine learning."
+	},
+	{
+		"title": "Intro to Web Development",
+		"nextClass": "Next Class: 08 Feb/May/Oct 2021, Brisbane/Sydney",
+		"imageFileName": "wordpress",
+		"intro": "Provide course for inexperienced people, learn to develop project via PHP, Wordpress, build up website quickly, including personal website, official website and eCommerce."
+	},
+	{
+		"title": "iOS System Development",
+		"nextClass": "Next Class: 16 Dec 2021, Brisbane/Melbourne",
+		"imageFileName": "iOS",
+		"intro": "The course covers all the key knowledge, tools and frameworks of iOS development, learn to use ObjectiveC, Swift, AFNetworking, SQLite, Cocoapods and Xcode."
+	}
+]

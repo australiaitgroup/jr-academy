@@ -1,0 +1,17 @@
+[
+	{
+		"title": "Interview Coaching",
+		"imageFileName": "interview-coaching",
+		"content": "Our interview coaches with experience in large local enterprises will help you leave a positive lasting impression in both behaviour and technical interviews by providing the best guidance and feedback to sell your skills and attributes better."
+	},
+	{
+		"title": "Mock Interview",
+		"imageFileName": "mock-interview",
+		"content": "You will receive constructive feedback from our experienced interviewers after a 30-minutes simulation interview, find out potential improvements and build up better answers for future interviews."
+	},
+	{
+		"title": "Resume Revision",
+		"imageFileName": "resume-revision",
+		"content": "Experienced HR provides revision suggestions with pertinence on resume format, content, and structure based on their knowledge of local job marketing preference."
+	}
+]

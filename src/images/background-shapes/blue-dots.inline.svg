@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="73px" height="104px" viewBox="0 0 73 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>右上角 decor</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="112.434321%" cy="187.061767%" fx="112.434321%" fy="187.061767%" r="173.963326%" id="radialGradient-1">
+            <stop stop-color="#5FE4C5" offset="0%"></stop>
+            <stop stop-color="#5BE1C7" offset="31.4933929%"></stop>
+            <stop stop-color="#2BC0E4" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="112.434321%" cy="187.061767%" fx="112.434321%" fy="187.061767%" r="173.812316%" id="radialGradient-2">
+            <stop stop-color="#5FE4C5" offset="0%"></stop>
+            <stop stop-color="#5BE1C7" offset="31.4933929%"></stop>
+            <stop stop-color="#2BC0E4" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5914016">
+        <g id="Desktop" transform="translate(-917.000000, -539.000000)">
+            <g id="Upcoming-Courses" transform="translate(-5.000000, 425.000000)">
+                <g id="右上角-decor" transform="translate(922.000000, 114.000000)">
+                    <circle id="Oval" fill="url(#radialGradient-1)" cx="27" cy="7" r="7"></circle>
+                    <circle id="Oval-Copy-4" fill="url(#radialGradient-2)" cx="27" cy="25" r="7"></circle>
+                    <circle id="Oval-Copy-8" fill="url(#radialGradient-2)" cx="27" cy="43" r="7"></circle>
+                    <circle id="Oval-Copy-12" fill="url(#radialGradient-2)" cx="27" cy="61" r="7"></circle>
+                    <circle id="Oval-Copy-16" fill="url(#radialGradient-2)" cx="27" cy="79" r="7"></circle>
+                    <circle id="Oval-Copy-20" fill="url(#radialGradient-2)" cx="27" cy="97" r="7"></circle>
+                    <circle id="Oval-Copy" fill="url(#radialGradient-2)" cx="46" cy="7" r="7"></circle>
+                    <circle id="Oval-Copy-5" fill="url(#radialGradient-2)" cx="46" cy="25" r="7"></circle>
+                    <circle id="Oval-Copy-9" fill="url(#radialGradient-2)" cx="46" cy="43" r="7"></circle>
+                    <circle id="Oval-Copy-13" fill="url(#radialGradient-2)" cx="46" cy="61" r="7"></circle>
+                    <circle id="Oval-Copy-17" fill="url(#radialGradient-2)" cx="46" cy="79" r="7"></circle>
+                    <circle id="Oval-Copy-21" fill="url(#radialGradient-2)" cx="46" cy="97" r="7"></circle>
+                    <circle id="Oval-Copy-2" fill="url(#radialGradient-2)" cx="66" cy="7" r="7"></circle>
+                    <circle id="Oval-Copy-6" fill="url(#radialGradient-2)" cx="66" cy="25" r="7"></circle>
+                    <circle id="Oval-Copy-10" fill="url(#radialGradient-2)" cx="66" cy="43" r="7"></circle>
+                    <circle id="Oval-Copy-14" fill="url(#radialGradient-2)" cx="66" cy="61" r="7"></circle>
+                    <circle id="Oval-Copy-18" fill="url(#radialGradient-2)" cx="66" cy="79" r="7"></circle>
+                    <circle id="Oval-Copy-22" fill="url(#radialGradient-2)" cx="66" cy="97" r="7"></circle>
+                    <circle id="Oval-Copy-3" fill="url(#radialGradient-2)" cx="7" cy="7" r="7"></circle>
+                    <circle id="Oval-Copy-7" fill="url(#radialGradient-2)" cx="7" cy="25" r="7"></circle>
+                    <circle id="Oval-Copy-11" fill="url(#radialGradient-2)" cx="7" cy="43" r="7"></circle>
+                    <circle id="Oval-Copy-15" fill="url(#radialGradient-2)" cx="7" cy="61" r="7"></circle>
+                    <circle id="Oval-Copy-19" fill="url(#radialGradient-2)" cx="7" cy="79" r="7"></circle>
+                    <circle id="Oval-Copy-23" fill="url(#radialGradient-2)" cx="7" cy="97" r="7"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
