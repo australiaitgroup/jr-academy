@@ -15,6 +15,12 @@ Kick off your project with this default boilerplate. This starter ships with the
     yarn install
     ```
 
+**Build Web Application**
+
+    ```sh
+    npm run build
+    ```
+
 1.  **Start developing.**
 
     Navigate into your new site’s directory and start it up.
@@ -23,12 +29,12 @@ Kick off your project with this default boilerplate. This starter ships with the
     gatsby develop
     ```
 
-1.  **Styled Component -- rebass**
+2.  **Styled Component -- rebass**
 
     [rebass](https://github.com/rebassjs/rebass)
     [Styled-System](https://styled-system.com/)
 
-1.  **Open the source code and start editing!**
+3.  **Open the source code and start editing!**
 
     Your site is now running at `http://localhost:8000`!
 
